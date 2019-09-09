@@ -1,0 +1,49 @@
+<!Doctype html>
+<html> 
+	<head>
+	<title> Ejercicios de lista </title>
+	<head>
+	
+	<body>
+	<h1><p> Ejercicios de lista </p></h1>
+	<br>
+	</br>
+	<h2><p> B&aacute;sicos del internet </p></h2>
+	<p> </p>
+	<ol>
+	<li> HTTP Requests</li>
+	<li> IP Address</li>
+	<li> Servers</li>
+	</ol>
+	
+	<h2>HTML</h2>
+	
+	<ul>
+	<li>Sus siglas significan <strong>Hyper Text Markup Language</strong></li>
+	<li>Hay muchas etiquetas en HTML</li>
+	<ul>
+	<li type="circle">Boilerplate</li>
+	
+	<ol>
+	<li> Doctype</li>
+	<li> HTML</li>
+	<li> Head</li>
+	
+	
+	<ol>
+	<li>Title</li>
+	</ol>
+			
+	
+	<li>Body</li>
+	</ol>
+
+	
+	<li type="circle">Heading</li>
+	<li type="circle">Paragraph</li>
+	<li type="circle"><em>em</em></li>
+	<li type="circle"><strong>strong</strong></li>
+	</ul>
+	
+	</body>
+</html>
