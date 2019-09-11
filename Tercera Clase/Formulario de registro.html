@@ -5,23 +5,17 @@
 	</head>
 	<body>
 	
-	<form>
-	<label>
+	<form action="/action_page.php">
 	<p><h1>Registration Form</h1></p>
 	User id:<Input type="text" name="Id" maxlength="12">
-	</label>
 	<p> </p>
 	<label>
        Password: <Input type="text" name="Password" maxlength="12">
-	</label>
 	<p> </p>
 	<label>
 	Name: <Input type="text">
-	</label>
 	<p> </p>
-	<label>
 	Address: <Input type="text">
-	</label>
 	<p> </p>
 	Country:<select name="Contry">
  	 <option value="Francia">Francia</option>
@@ -39,7 +33,9 @@
 	Language: <Input type="checkbox"> English <Input type="checkbox">Non English
 	<p> </p>
 	About: <textarea name="message" rows="10" cols="30">
-	</textarea>
+	</textarea>	
+	<p> </p>
+	<input type="submit" value="Submit">
 	</form>
 	</body>
 </html>
