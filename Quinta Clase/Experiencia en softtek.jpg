@@ -1,0 +1,19 @@
+<!Doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Blog</title>
+</head>
+<body bgcolor="Red">
+<center><p><h1>Blog Personal</h1></p></center>
+<center><table></center>
+<div>
+<tr>
+<th><a href="Lo que me gusta.html"><button><img src="Imagenes/Softtek.jpg"></button></a></th>
+</tr>
+<tr>
+<th><a href="Lo que me gusta.html"><button><img src="Imagenes/Emblema.jpg"></button></a></th>
+</table>
+
+</body>
+</html>
